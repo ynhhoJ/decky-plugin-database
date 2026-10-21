@@ -386,3 +386,6 @@
 [submodule "plugins/decky-desktop-apps"]
         path = plugins/decky-desktop-apps
         url = https://github.com/allmazz/decky-desktop-apps.git
+[submodule "activity"]
+	path = plugins/activity
+	url = git@github.com:o3h3-activity/activity-decky.git
